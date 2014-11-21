@@ -1,6 +1,4 @@
-# [Pretty Print](http://lehelmatyus.com/prettyprint)
-
-prettyprint
+# [prettyprint style sheet](http://lehelmatyus.com/prettyprint)
 ===========
 
 A Pretty Print Stylesheet for Drupal
