@@ -1,5 +1,5 @@
 # [prettyprint style sheet](http://lehelmatyus.com/prettyprint)
-===========
+--------------
 
 A Pretty Print Stylesheet for Drupal
 
