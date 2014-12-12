@@ -5,8 +5,8 @@ A Pretty Print Stylesheet for Drupal
 
 ## Quick start
 
-1. Download the latest stable release from http://lehelmatyus.com/prettyprint
-  Add it to your custom drupal theme
+Add it to your drupal theme:
+  stylesheets[print][] = css/print.css
 
 ## Features
 
