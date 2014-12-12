@@ -6,6 +6,7 @@ A Pretty Print Stylesheet for Drupal
 ## Quick start
 
 Add it to your drupal theme:
+
   stylesheets[print][] = css/print.css
 
 ## Features
